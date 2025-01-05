@@ -6,3 +6,4 @@ For the E-Learning Platform, I used React to create an engaging user interface w
 In all these projects, I gained valuable experience in front-end development, focusing on React, JavaScript, and CSS to create interactive, responsive, and user-friendly web applications.
 ![Screenshot 2025-01-05 174245](https://github.com/user-attachments/assets/42ef1f10-abab-4b33-b762-84835cfe806f)
 ![Uploading Screenshot 2025-01-05 174300.png…]()
+
